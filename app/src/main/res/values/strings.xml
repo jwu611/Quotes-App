@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">For Dad</string>
+
+    <string-array name="quotes">
+        <item>Much love on your Birthday, Dad!\n\n\tJan 2020</item>
+        <item>“Fathers, you are your daughter’s hero. My father was my hero. I loved the challenge of trying to follow his every footstep. I still do.”\n\t–Elaine S. Dalton</item>
+        <item>"To her, the name of father was another name for love\n\t-Fanny Fern"</item>
+        <item>“Every father should remember one day his son will follow his example, not his advice.”\n\t-Charles Kettering</item>
+        <item>“My father gave me the greatest gift anyone could give another person, he believed in me.”\n\t―Jim Valvano</item>
+        <item>“My father didn’t tell me how to live. He lived and let me watch him do it.”\n\t―Clarence Budington Kelland</item>
+        <item>“The quality of a father can be seen in the goals, dreams and aspirations he sets not only for himself, but for his family.”\n\t―Reed Markham</item>
+        <item>“He adopted a role called being a father so that his child would have something mythical and infinitely important: a protector.”\n\t―Tom Wolfe</item>
+        <item>“One father is more than a hundred schoolmasters.”\n\t–George Herbert</item>
+        <item>“If there is any immortality to be had among us human beings, it is certainly only in the love that we leave behind. Fathers like mine don’t ever die.”\n\t–Leo Buscaglia</item>
+        <item>“That is the thankless position of the father in the family—the provider for all, and the enemy of all.”\n\t–J. August Strindberg</item>
+        <item>“A girl’s father is the first man in her life, and probably the most influential.”\n\t–David Jeremiah</item>
+        <item>“Fathers, like mothers, are not born. Men grow into fathers and fathering is a very important stage in their development.”\n\t–David Gottesman</item>
+        <item>“I believe that what we become depends on what our fathers teach us at odd moments, when they aren’t trying to teach us. We are formed by little scraps of wisdom.”\n\t–Umberto Eco</item>
+        <item>“It is easier for a father to have children than for children to have a real father.”\n\t–Pope John XXIII</item>
+        <item>“Dads are most ordinary men turned by love into heroes, adventurers, story-tellers, and singers of song.”\n\t–Pam Brown</item>
+        <item>“‘Father’ is the noblest title a man can be given. It is more than a biological role. It signifies a patriarch, a leader, an exemplar, a confidant, a teacher, a hero, a friend.”\n\t–Robert L. Backman</item>
+        <item>“No man can possibly know what life means, what the world means, what anything means, until he has a child and loves it.”\n\t–Lafcadio Hearn</item>
+        <item>“A family needs a father to anchor it.”\n\t–L. Tom Perry</item>
+        <item>“Words have an awesome impact. The impression made by a father’s voice can set in motion an entire trend of life.”\n\t–Gordon MacDonald</item>
+        <item>“A father is someone you look up to no matter how tall you grow.”\n\t–Unknown</item>
+        <item>“Certain is it that there is no kind of affection so purely angelic as of a father to a daughter."\n\t–Joseph Addison</item>
+        <item>“Life doesn’t come with an instruction book — that’s why we have fathers.”\n\t-H. Jackson Browne</item>
+        <item>“Fathers, you are your daughter’s hero. My father was my hero. I loved the challenge of trying to follow his every footstep. I still do.”\n\t–Elaine S. Dalton</item>
+        <item>“A good father is one of the most unsung, unpraised, unnoticed, and yet one of the most valuable assets in our society.”\n\t–Billy Graham</item>
+        <item>“Any fool can have a child. That doesn’t make you a father. It’s the courage to raise a child that makes you a father.”\n\t-Barack Obama</item>
+        <item>“There is no greater name for a leader than mother or father. There is no leadership more important than parenthood.”\n\t—Sheri L. Dew</item>
+        <item>"I think a father is someone, who loves unconditionally, there is no perfect formula, to who a father can be."\n\t-Julie Hebert</item>
+        <item>"I am not ashamed to say that no man I ever met was my father's equal, and I never loved any other man as much."\n\t-Hedy Lamarr</item>
+        <item>"Being a father, being a friend, those are the things that make me feel successful."\n\t-William Hurt</item>
+        <item>"As fathers, we understand that we have the opportunity to image forth God's love to our family."\n\t-Matt Click</item>
+    </string-array>
+
+
+</resources>
